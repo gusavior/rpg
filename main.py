@@ -1,2 +1,3 @@
 import menuDado
-menuDado()
+
+menuDado
